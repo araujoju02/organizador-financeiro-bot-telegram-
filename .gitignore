@@ -1,0 +1,21 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar caches e arquivos temporários do Python
+__pycache__/
+*.pyc
+*.log
+
+# Ignorar arquivos de dados gerados
+form_fields.json
+
+# Ignorar ambientes virtuais
+virtualenv/
+virtual-env/
+venv/
+env/
+
+# Ignorar logs do sistema
+*.log
+
+
